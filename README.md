@@ -15,3 +15,5 @@ A python mini-project:
 ## Video Downloader
 A Python mini project, learning to create a Youtube video downloader, downloading the video to either video or mp3 format files.
 
+## Credit Card Validator
+Pyhton implementation of the Luhn algorithm to validate credit card numbers
