@@ -17,3 +17,7 @@ A Python mini project, learning to create a Youtube video downloader, downloadin
 
 ## Credit Card Validator
 Pyhton implementation of the Luhn algorithm to validate credit card numbers
+
+## HTML Tutorial
+I completed the HTML - Full Tutorial for Beginners by Dave Gray:
+https://github.com/gitdagray/html_course
