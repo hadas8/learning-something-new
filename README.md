@@ -21,3 +21,8 @@ Pyhton implementation of the Luhn algorithm to validate credit card numbers
 ## HTML Tutorial
 I completed the HTML - Full Tutorial for Beginners by Dave Gray:
 https://github.com/gitdagray/html_course
+
+## Django Projects
+Learning to design websites with Django, I created two projects:
+- demo - a demo of a bookstore site, with a database of books
+- todo - a todo app website of tasks to complete
