@@ -26,3 +26,8 @@ https://github.com/gitdagray/html_course
 Learning to design websites with Django, I created two projects:
 - demo - a demo of a bookstore site, with a database of books
 - todo - a todo app website of tasks to complete
+
+## Flask - Expense Manager
+Learning to design websites with Flask, I created an Expense Manager app. 
+The users can add, delete and edit expenses.
+The expenses are presented on the app, with a chart displaying the total amount spent, separated to expense categories.
