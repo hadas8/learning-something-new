@@ -31,3 +31,8 @@ Learning to design websites with Django, I created two projects:
 Learning to design websites with Flask, I created an Expense Manager app. 
 The users can add, delete and edit expenses.
 The expenses are presented on the app, with a chart displaying the total amount spent, separated to expense categories.
+
+## Tkinter Projects
+Learnig to create GUI desktop apps with Tkinter, I created several projects:
+- First GUI Project: several files testing many useful Tkinter features
+- Text Editor: A text editor, resembling notepad, which I created using Tkinter.
